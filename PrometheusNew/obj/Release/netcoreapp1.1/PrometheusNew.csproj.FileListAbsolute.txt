@@ -1,0 +1,9 @@
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\bin\Release\netcoreapp1.1\PrometheusNew.deps.json
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\bin\Release\netcoreapp1.1\PrometheusNew.runtimeconfig.json
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\bin\Release\netcoreapp1.1\PrometheusNew.runtimeconfig.dev.json
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\bin\Release\netcoreapp1.1\PrometheusNew.dll
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\bin\Release\netcoreapp1.1\PrometheusNew.pdb
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\obj\Release\netcoreapp1.1\PrometheusNew.csprojResolveAssemblyReference.cache
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\obj\Release\netcoreapp1.1\PrometheusNew.AssemblyInfo.cs
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\obj\Release\netcoreapp1.1\PrometheusNew.dll
+C:\Users\Dimag\documents\visual studio 2017\Projects\PrometheusNew\PrometheusNew\obj\Release\netcoreapp1.1\PrometheusNew.pdb
